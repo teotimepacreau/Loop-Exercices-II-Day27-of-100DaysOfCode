@@ -1,5 +1,5 @@
 # LoopExercices part II from 30DaysOfJavascript
-https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/05_Day_Arrays/05_day_arrays.md
+https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/06_Day_Loops/06_day_loops.md
 
 # Learning
 - understood why it's necessary to put return in map array method
